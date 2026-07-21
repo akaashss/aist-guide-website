@@ -40,6 +40,13 @@ theme:
     - search.highlight
     - content.code.copy
     - toc.follow
+    - header.autohide
+    - navigation.footer
+
+copyright: Copyright &copy; 2026 Akaash S S 
+copyright: Personal experiences from an internship at AIST. This website is not affiliated with or endorsed by AIST.
+extra:
+  generator: false
 
 nav:
   - Home: index.md
