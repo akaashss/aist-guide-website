@@ -1,4 +1,4 @@
-site_name: AIST Internship Guide
+site_name: The AIST Experience
 
 theme:
   name: material
@@ -39,3 +39,13 @@ theme:
     - navigation.top
     - search.highlight
     - content.code.copy
+    - toc.follow
+
+nav:
+  - Home: index.md
+  - Travel: travel.md
+  - Accommodation: accommodation.md
+  - Food: food.md
+  - Shopping: shopping.md
+  - Explore: places.md
+  - Living in Japan: tips.md
