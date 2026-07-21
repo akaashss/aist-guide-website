@@ -53,6 +53,9 @@ copyright: |
 
 extra:
   generator: false
+  analytics:
+    provider: google
+    property: G-PRQ18MXV45
 
 nav:
   - Home: index.md
