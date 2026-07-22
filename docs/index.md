@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # AIST Internship Guide
 
 > A practical guide based on my two-month internship at **AIST Tsukuba, Japan**, covering everyday life, research, travel, and experiences to help future interns prepare for their stay.
@@ -46,60 +52,6 @@ For those interested in the technical details of my work, you can read more here
 
 **➡️ [My Internship Project](https://your-portfolio-link.com)**
 
----
 
-## Explore the Guide
-
-### ✈ Travel
-
-Everything from arriving in Japan to transportation, trains, buses, IC cards, and getting around Tsukuba and Tokyo.
-
----
-
-### 🏠 Accommodation
-
-Dormitories, facilities, laundry, daily life, nearby stores, and useful tips for living comfortably.
-
----
-
-### 🍜 Food
-
-Campus cafeterias, restaurants, supermarkets, convenience stores, prices, and my personal recommendations.
-
----
-
-### 🛍 Shopping
-
-Souvenirs, electronics, groceries, stationery, and useful places to shop around Tsukuba and Tokyo.
-
----
-
-### 🗾 Places to Visit
-
-Weekend trips, sightseeing spots, museums, temples, parks, and places I personally enjoyed visiting.
-
----
-
-### 💡 General Tips
-
-Small observations, cultural differences, useful apps, transport tricks, and other things I wish I had known before arriving.
-
----
-
-## About This Guide
-
-This guide is entirely based on **my personal experience** during my internship at AIST Tsukuba.
-
-Whenever possible, I have included practical advice, estimated costs, maps, and recommendations based on places I actually visited or services I personally used.
-
----
-
-## Disclaimer
-
-- This guide reflects my personal experience and opinions.
-- Information such as prices, transportation schedules, accommodation policies, and facilities may change over time.
-- Please verify important information using official sources before making travel or accommodation decisions.
-
----
 
 _Last updated: July 2026_
