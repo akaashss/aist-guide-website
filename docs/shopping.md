@@ -34,26 +34,31 @@ Located directly opposite the South Gate, open 24 hours, with an ATM on site.
     Every convenience store keeps a small pictogram card near the register, or pasted on the counter, showing yes/no options for a carry bag, chopsticks, and microwave heating. Just point at what you need. If you want something microwaved, ask at the counter and staff will heat it for you.
 
 !!! tip "Coin exchangers and one yen coins"
-    The one yen coins are useless as most vending machines won't accept them. You can use coin exchangers, found in most stations in Tokyo to recharge your IC cards. 
+    One yen coins are pretty much useless, since most vending machines won't accept them. Coin exchangers, found in most stations around Tokyo, let you convert them and top up your IC card instead.
+
 ---
 
 ## Other Spots in Tsukuba
 
 **Higashi** is a solid shopping cluster with Welcia, Kasumi food market, Matsumoto Kiyoshi, and a few other stores. If FamilyMart or 7-Eleven don't have what you need, this is the next place to check.
 
-<div markdown>
-![Aeon Mall](assets\shopping\aeon.jpg){ loading=lazy }
-<small>*Aeon Mall*</small>
+<div class="img-grid" markdown>
+
+<figure markdown>
+![Aeon Mall](assets/shopping/aeon.jpg){ loading=lazy }
+<figcaption>Aeon Mall</figcaption>
+</figure>
+
+<figure markdown>
+![Iias Mall](assets/shopping/iias.jpg){ loading=lazy }
+<figcaption>Iias Mall</figcaption>
+</figure>
+
 </div>
 
-<div markdown>
-![Iias Mall](assets\shopping\iias.jpg){ loading=lazy }
-<small>*Iias Mall*</small>
-</div>
-
-**AEON Mall** is probably one of the biggest malls in Tsukuba and it is around 30-40 minutes by bicycle.
+**AEON Mall** is probably one of the biggest malls in Tsukuba, and it's around 30 to 40 minutes away by bicycle.
 
 Beyond that, **Iias Tsukuba** and the shopping complex next to **Tsukuba Center** (including a few shops selling handmade crafts) round out the bigger options nearby. Both are covered in more detail on the [Travel page](travel.md#exploring-around-tsukuba).
 
 !!! note "Tsukuba souvenir"
-    If you wish to get souvenir related to Tsukuba, you can find the Tsukuba souvenir shop in Tsukuba Central train station.
+    If you're after a souvenir specifically tied to Tsukuba, there's a dedicated Tsukuba souvenir shop inside Tsukuba Center train station.

@@ -5,16 +5,17 @@ hide:
 
 # Living at Sakura-kan
 
-![Sakura-kan exterior view](assets\accommodation\Outer.png){ loading=lazy }
-
-
+<figure class="img-figure" markdown>
+![Sakura-kan exterior view](assets/accommodation/outer.png){ loading=lazy }
+<figcaption>Sakura-kan, viewed from outside</figcaption>
+</figure>
 
 ## The Overview
 
 AIST houses its visiting researchers and interns in one of two on-site buildings:
 
 - **Sakura-kan**, for anyone staying under 90 days
-- **Keyaki-kan**, for longer-term stays 
+- **Keyaki-kan**, for longer-term stays
 
 This page sticks to Sakura-kan, since that's where my own experience lies. I can't speak to Keyaki-kan at all.
 
@@ -41,36 +42,36 @@ Regardless of room type, expect:
 !!! tip "Wake-up calls"
     The room's instruction manual has a specific dial combination for the landline that sets an automated wake-up call at your chosen time.
 
-<div class="grid" markdown>
+<div class="img-grid" markdown>
 
-<div markdown>
-![Single room interior](assets\accommodation\Room 1.jpg){ loading=lazy }
-<small>*A single room*</small>
+<figure markdown>
+![Single room interior](assets/accommodation/room-1.jpg){ loading=lazy }
+<figcaption>A single room</figcaption>
+</figure>
+
+<figure markdown>
+![Working desk and telephone](assets/accommodation/landline.jpg){ loading=lazy }
+<figcaption>The desk and phone. External calls come with a charge.</figcaption>
+</figure>
+
 </div>
 
-<div markdown>
-![Working desk and telephone](assets\accommodation\Landline.jpg){ loading=lazy }
-<small>*The desk and phone. External calls come with a charge.*</small>
-</div>
+<div class="img-grid" markdown>
 
-</div>
+<figure markdown>
+![Room entrance and closet](assets/accommodation/room-2.jpg){ loading=lazy }
+<figcaption>Just past the entrance: bathroom on one side, closet on the other.</figcaption>
+</figure>
 
-<div class="grid" markdown>
+<figure markdown>
+![Bathroom](assets/accommodation/bathroom.jpg){ loading=lazy }
+<figcaption>The bathroom</figcaption>
+</figure>
 
-<div markdown>
-![Room entrance and closet](assets\accommodation\Room 2.jpg){ loading=lazy }
-<small>*Just past the entrance: bathroom on one side, closet on the other. There's a clothesline inside the closet for air-drying.*</small>
-</div>
-
-<div markdown>
-![Bathroom](assets\accommodation\Bathroom.jpg){ loading=lazy }
-<small>*The bathroom*</small>
-</div>
-
-<div markdown>
-![Balcony](assets\accommodation\Balcony.jpg){ loading=lazy }
-<small>*The balcony*</small>
-</div>
+<figure markdown>
+![Balcony](assets/accommodation/balcony.jpg){ loading=lazy }
+<figcaption>The balcony</figcaption>
+</figure>
 
 </div>
 
@@ -117,18 +118,17 @@ Regardless of room type, expect:
 
 There's a separate spot for washing and drying dishes and utensils after cooking.
 
-<div class="grid" markdown>
+<div class="img-grid" markdown>
 
-<div markdown>
-![Common kitchen area](assets\accommodation\Microwave Block B.jpg){ loading=lazy }
-<small>*Microwave in block B*</small>
-</div>
+<figure markdown>
+![Microwave in Block B](assets/accommodation/microwave-block-b.jpg){ loading=lazy }
+<figcaption>Microwave in Block B</figcaption>
+</figure>
 
-<div markdown>
-![Dish washing and drying area](assets\accommodation\Lounge.jpg){ loading=lazy }
-<small>*
-The other common microwave and washing area is in main Lobby in Block A.*</small>
-</div>
+<figure markdown>
+![Lounge area](assets/accommodation/lounge.jpg){ loading=lazy }
+<figcaption>The other common microwave and washing area, in the main lobby of Block A</figcaption>
+</figure>
 
 </div>
 
@@ -136,7 +136,7 @@ The other common microwave and washing area is in main Lobby in Block A.*</small
 
 ## Doing Laundry
 
-Every block has washing machines and they can be used at free of cost. However, **detergent** are not supplied. Any nearby convenience store sells it.
+Every block has washing machines, and they're free to use. That said, **detergent isn't supplied**. Any nearby convenience store sells it.
 
 | Block | Setup |
 |---|---|
@@ -144,19 +144,19 @@ Every block has washing machines and they can be used at free of cost. However, 
 | **B** | Washer and dryer kept as separate machines |
 | **C** | Washing units are available, though I haven't used them myself |
 
+<div class="img-grid" markdown>
 
-<div markdown>
-![Laundry room Block B](assets\accommodation\Block B Laundry.jpg){ loading=lazy }
-</div>
-<small>*
-Laundry room Block B*</small>
+<figure markdown>
+![Laundry room, Block B](assets/accommodation/laundry-block-b.jpg){ loading=lazy }
+<figcaption>Laundry room, Block B</figcaption>
+</figure>
 
-<div markdown>
-![Laundry room Block A](assets\accommodation\Block A Laundry.jpg){ loading=lazy }
+<figure markdown>
+![Laundry room, Block A](assets/accommodation/laundry-block-a.jpg){ loading=lazy }
+<figcaption>Laundry room, Block A</figcaption>
+</figure>
+
 </div>
-<small>*
-Laundry room Block A*</small>
-side bys isde images
 
 ---
 
@@ -164,11 +164,19 @@ side bys isde images
 
 Free bicycle loans are one of the best perks here. They make commuting and exploring Tsukuba far easier.
 
-![](assets\accommodation\Bicycle.jpg){ loading=lazy }
-(this image has to be side by side, low res image)
+<div class="img-grid" markdown>
 
-![](assets\accommodation\Iron.jpg){ loading=lazy }
-(this image has to be side by side, low res image)
+<figure markdown>
+![Bicycle available for loan](assets/accommodation/bicycle.jpg){ loading=lazy }
+<figcaption>One of the loaner bicycles</figcaption>
+</figure>
+
+<figure markdown>
+![Iron available at the front desk](assets/accommodation/iron.jpg){ loading=lazy }
+<figcaption>The iron, also borrowed via the front desk logbook</figcaption>
+</figure>
+
+</div>
 
 !!! tip "How borrowing works"
     Sign the logbook at reception to borrow a bike. The same rule applies to anything else you borrow, including umbrellas, irons, and LAN cables: you can only pick these up after making an entry in the respective logbook at the desk.
@@ -195,17 +203,15 @@ Free bicycle loans are one of the best perks here. They make commuting and explo
 
     ---
 
-    An on-site nursery with a small attached playground is avilable.
+    An on-site nursery with a small attached playground is available.
 
 </div>
-
 
 ---
 
 ## Room Upkeep
 
 Housekeeping comes through twice a week (for me, it was Mondays and Thursdays). They'll make up the bed with fresh linens, swap towels, and tidy the room.
-
 
 ---
 
@@ -221,16 +227,18 @@ Housekeeping comes through twice a week (for me, it was Mondays and Thursdays). 
 Sakura-kan works well for a short research stay. The rooms are private and clean, the shared amenities (kitchen, laundry, bikes) genuinely cut down on daily hassle, and the staff at the desk were kind and helpful. Two things worth planning around ahead of time: **WiFi is Block-A-only**, and **mobile signal indoors is weak**. Beyond that, it's a low-stress place to spend an internship.
 
 !!! note "Something peculiar"
-    In Japan, most applainces has a optional ground wire as most buildings are not wired for ground. Also, some extension cord has a inbuilt locking mechanism.  You'll have to insert the plug and twist to lock it. Before removing the plug, you'll have to twist it back.  
+    In Japan, most appliances have an optional ground wire, since most buildings aren't wired for grounding. Also, some extension cords have a built-in locking mechanism: you insert the plug and twist to lock it, then twist it back before removing the plug.
 
-<div markdown>
-![Optional ground](assets\accommodation\ground.jpg){ loading=lazy }
-</div>
-<small>*
-Optional ground pin*</small>
+<div class="img-grid" markdown>
 
-<div markdown>
-![Extension cord with locking mechanism](assets\accommodation\Extension cord.jpg){ loading=lazy }
+<figure markdown>
+![Optional ground pin](assets/accommodation/ground.jpg){ loading=lazy }
+<figcaption>Optional ground pin</figcaption>
+</figure>
+
+<figure markdown>
+![Extension cord with locking mechanism](assets/accommodation/extension-cord.jpg){ loading=lazy }
+<figcaption>Extension cord with locking mechanism</figcaption>
+</figure>
+
 </div>
-<small>*Extension cord with locking mechanism*</small>
-side bys isde images

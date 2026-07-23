@@ -3,7 +3,6 @@ hide:
   - navigation
 ---
 
-
 # Travel
 
 This page walks you through the journey from Narita Airport to AIST, how to get around once you're there, and how to make day trips to Tokyo without overthinking it.
@@ -15,6 +14,7 @@ This page walks you through the journey from Narita Airport to AIST, how to get 
     Public transport in Japan, including trains and local public buses or highway buses, is tracked very reliably on **Google Maps**. Real time schedules, platform info, and delays all show up accurately.
 
 ---
+
 ## Narita Airport Transfers
 
 ### Arriving from Narita Airport
@@ -22,25 +22,27 @@ This page walks you through the journey from Narita Airport to AIST, how to get 
 <div class="grid" markdown>
 
 <div markdown>
-Narita is about **52 km** from Tsukuba, and the trip takes roughly **70 minutes**. You have three real options — train, taxi, or the limousine bus. Between the three, the **limousine bus** is the easiest: the metro gets awkward with luggage, and a taxi the whole way is expensive.
+Narita is about **52 km** from Tsukuba, and the trip takes roughly **70 minutes**. You have three real options: train, taxi, or the limousine bus. Between the three, the **limousine bus** is the easiest, since the metro gets awkward with luggage and a taxi the whole way is expensive.
 
 Buy your ticket before boarding:
 
-- **Terminals 1 & 2** — Keisei Airport Bus counter
-- **Terminal 3** — Travel Support GPA service counter
+- **Terminals 1 & 2**, Keisei Airport Bus counter
+- **Terminal 3**, Travel Support GPA service counter
 
 The bus drops you at **Tsukuba Center**, and from there you can grab a public bus, a taxi, or the AIST shuttle to reach campus.
 </div>
 
 <div markdown>
-![Narita Airport limosine bus](assets/travel/airport.jpg){ loading=lazy }
-<small>* — Narita limousine bus counter*</small>
+<figure class="img-figure" markdown>
+![Narita Airport limousine bus](assets/travel/airport.jpg){ loading=lazy }
+<figcaption>Narita limousine bus counter</figcaption>
+</figure>
 </div>
 
 </div>
 
 !!! tip "Fare & travel time"
-    One-way to Tsukuba costs around **¥2,400** and takes about **70 minutes**. From Tsukuba Center, AIST Central is another **~15 minutes by car** — check with your PI on the best way to cover that last stretch.
+    One-way to Tsukuba costs around **¥2,400** and takes about **70 minutes**. From Tsukuba Center, AIST Central is another **~15 minutes by car**. Check with your PI on the best way to cover that last stretch.
 
 ### Heading back to Narita Airport
 
@@ -49,15 +51,13 @@ The limousine bus is still the best option on the way out too, but it needs to b
 To get to Tsukuba Center in time, the **AIST shuttle bus** runs on weekdays, roughly every 30 minutes, from **8 AM to 5 PM**.
 
 !!! warning "Not confirmed"
-    I'm not certain whether the airport limousine accepts IC cards, reservations seem to be required regardless.
+    I'm not certain whether the airport limousine accepts IC cards. Reservations seem to be required regardless.
 
 ---
 
 ## Getting Around AIST
 
-AIST is a  large campus, so a bicycle helps a lot, and you can borrow one from the on-campus housing (**Sakura-kan** and **Keyaki-kan**).
-
-AIST is a genuinely large campus, so don't expect to walk everywhere comfortably. A bicycle helps a lot, and you can borrow one from the on-campus housing (**Sakura-kan** and **Keyaki-kan**). From there, every research building (Central 1–7) is within **15 minutes on foot**, or **under 10 minutes by bicycle**.
+AIST is a genuinely large campus, so don't expect to walk everywhere comfortably. A bicycle helps a lot, and you can borrow one from the on-campus housing (**Sakura-kan** and **Keyaki-kan**). From there, every research building (Central 1-7) is within **15 minutes on foot**, or **under 10 minutes by bicycle**.
 
 There are three gates on campus, and an **ID card is required** for entry and exit at all of them.
 
@@ -86,8 +86,10 @@ Tsukuba Center is the closest station to campus.
 === "Public bus"
     Catch it from **Namiki-2-chome** (near the Front gate) or **Namiki-Ohashi** (~1 km away from the South gate). Both stops are roughly the same distance from Sakura-kan.
 
-![Tsukuba Center ](assets/travel/center.jpg){ loading=lazy }
-<small>* Tsukuba Center station*</small>
+<figure class="img-figure" markdown>
+![Tsukuba Center](assets/travel/center.jpg){ loading=lazy }
+<figcaption>Tsukuba Center station</figcaption>
+</figure>
 
 ---
 
@@ -97,14 +99,13 @@ Most food spots cluster around **Doho Park** (about a 10-minute walk from Sakura
 
 Tsukuba Center itself sits next to a large shopping complex, and there are a few shops selling **handmade crafts** tucked in around there, worth a look if you get the chance.
 
-
 **Iias Tsukuba** is one of the biggest malls in the area, about **6 km**, roughly **30 minutes by bicycle** or **an hour by public transport**. **MEGA Don Quijote** is right next door for pretty much anything else you might need.
 
 !!! tip "Personal favorite"
     Walk through **Doho Park in the evening**. It's quiet, well-lit, and one of the most pleasant spots to just sit and unwind after a long day in the lab.
 
 !!! note "Crossing the road"
-    Crossing the street in Japan is a bit different! At crossings with traffic lights, you simply press the button and wait for the green signal. But at crossings without lights, something interesting happens: drivers actually stop for pedestrians. Unlike in India, where you have to hunt for a gap in traffic to cross, Japanese drivers will actively pull over to let you pass safely.
+    Crossing the street in Japan works a bit differently. At crossings with traffic lights, you press the button and wait for the green signal, same as most places. But at crossings without lights, drivers actually stop and wave pedestrians through. It's a nice change from having to hunt for a gap in traffic yourself.
 
 ---
 
@@ -112,27 +113,34 @@ Tsukuba Center itself sits next to a large shopping complex, and there are a few
 
 Tokyo is about **60 km** from Tsukuba.
 
-**Going in:** Take the **Tsukuba Express** from Tsukuba Center to Akihabara, trains run about every 10 minutes.
+**Going in:** Take the **Tsukuba Express** from Tsukuba Center to Akihabara. Trains run about every 10 minutes.
 
-**Coming back:** The least stressful option is the **highway bus** (run jointly by JR and Kanto Tetsudo) from the **JR Highway Bus Terminal at Tokyo Station**, headed toward "**Tsukuba Center**" or "**University of Tsukuba**." It takes about **70 minutes** and costs around **¥1,200** one-way. Get off at either **Namiki-2-chome** *(Third stop)* or **Namiki-Ohashi** *(Second stop)*.
+**Coming back:** The least stressful option is the **highway bus** (run jointly by JR and Kanto Tetsudo) from the **JR Highway Bus Terminal at Tokyo Station**, headed toward "**Tsukuba Center**" or "**University of Tsukuba**." It takes about **70 minutes** and costs around **¥1,200** one-way. Get off at either **Namiki-2-chome** *(third stop)* or **Namiki-Ohashi** *(second stop)*.
 
-![Highway bus schedule ](assets/travel/JR schedule.jpg){ loading=lazy }
-<small>*Highway bus schedule board*</small>
+<div class="img-grid" markdown>
 
-![Highway bus stop in Tokyo Staion](assets/travel/JR stop.jpg){ loading=lazy }
-<small>*Highway bus stop in Tokyo Staion*</small>
+<figure markdown>
+![Highway bus schedule](assets/travel/jr-schedule.jpg){ loading=lazy }
+<figcaption>Highway bus schedule board</figcaption>
+</figure>
+
+<figure markdown>
+![Highway bus stop at Tokyo Station](assets/travel/jr-stop.jpg){ loading=lazy }
+<figcaption>Highway bus stop at Tokyo Station</figcaption>
+</figure>
+
+</div>
 
 !!! tip "Which stop to pick"
-    I'd get off at **Namiki-Ohashi**, it puts you right by the 7-Eleven near the South gate, perfect for a quick snack after the ride back.
+    I'd get off at **Namiki-Ohashi**. It puts you right by the 7-Eleven near the South gate, perfect for a quick snack after the ride back.
 
 !!! tip "Stop button"
-    A stop button is accessible from every seat. If you wish to get off at the next stop, you must notify the driver by pressing it. If another passenger has already pressed the button, you do not need to press it again. Otherwise, the bus will not stop.
+    A stop button is accessible from every seat. If you want to get off at the next stop, press it to notify the driver. If another passenger has already pressed it, you don't need to press it again, otherwise the bus won't stop.
 
-![Stop button in buses.](assets/travel/bus stop.jpg){ loading=lazy }
-<small>*Stop button in buses.*</small>
+<figure class="img-figure" markdown>
+![Stop button on the bus](assets/travel/bus-stop-button.jpg){ loading=lazy }
+<figcaption>Stop button on the bus</figcaption>
+</figure>
 
-
-
-!!! note "Amenities in Highway Bus"
-    Almost all highway bus and limousine provides free WiFi and has onboard toilets. Also, these buses are equipped with either a power socket or a USB-A port. 
----
+!!! note "Amenities on the highway bus"
+    Almost all highway buses and limousines provide free WiFi and have onboard toilets. Most are also equipped with either a power socket or a USB-A port.

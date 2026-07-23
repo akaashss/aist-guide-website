@@ -28,8 +28,10 @@ You'll find **three set menus**, a few noodle options (ramen, udon, soba), curry
 !!! tip "Avoid the lunch rush"
     The lunch bell rings at 12:00 noon, and the place gets crowded for about 20 minutes, roughly 12:00 to 12:20 from my experience. Visit before or after that window to skip the queue, though the set menus might be sold out later in the day.
 
+<figure class="img-figure" markdown>
 ![Weekly cafeteria menu](assets/food/cafeteria-menu.jpg){ loading=lazy }
-<small>*A random week's menu board*</small>
+<figcaption>A random week's menu board</figcaption>
+</figure>
 
 ### Welfare Annex B Cafeteria (Cafe Piquenique)
 
@@ -40,8 +42,8 @@ Closes at **7:00 PM**. Weekly menus and any changes to timing are posted on [the
 Personally, I found Cafe Piquenique leaned more toward pasta-based dishes than a typical set-menu cafeteria.
 
 ### Coffee Factory R&D Cafe
-in Central 2.
-Open **10 AM to 6 PM**. More of a proper cafe than a cafeteria, with one lunch dish plus snacks and drinks. Also listed on TableLog.
+
+In Central 2. Open **10 AM to 6 PM**. More of a proper cafe than a cafeteria, with one lunch dish plus snacks and drinks. Also listed on TableLog.
 
 **Payment:** Handled at the reception counter, and all payment methods are accepted.
 
@@ -57,13 +59,19 @@ All of these were found through TableLog, and there are plenty more still to dis
 
 A Western food spot, I tried pasta with hamburg steak and found the service solid, with staff who actually spoke English. Located toward the exit of Doho Park.
 
-![West House entrance](assets/food/WestHouse2.jpg){ loading=lazy }
-<small>*West House*</small>
+<div class="img-grid" markdown>
 
-![West House meal](assets/food/WestHouse.jpg){ loading=lazy }
-<small>*Food at West House*</small>
+<figure markdown>
+![West House entrance](assets/food/west-house-entrance.jpg){ loading=lazy }
+<figcaption>West House</figcaption>
+</figure>
 
+<figure markdown>
+![West House meal](assets/food/west-house-meal.jpg){ loading=lazy }
+<figcaption>Food at West House</figcaption>
+</figure>
 
+</div>
 
 !!! note "On pricing"
     Most Western-style Japanese restaurants I visited landed around ¥1,500 a meal.
@@ -73,7 +81,11 @@ A Western food spot, I tried pasta with hamburg steak and found the service soli
 The easiest restaurant to navigate. Serves udon and gyudon, and the udon I tried was quite good. The best part is that ordering happens through a tablet (English available), and payment is computerized: you walk up to the machine, scan your bill, and pay.
 
 Located in Higashi.
-![West House meal](assets/food/nakau.jpg){ loading=lazy }
+
+<figure class="img-figure" markdown>
+![Nakau](assets/food/nakau.jpg){ loading=lazy }
+<figcaption>Nakau</figcaption>
+</figure>
 
 !!! tip "Nearby options"
     The Kasumi food market and Welcia drugstore are right next door, worth checking out since the 7-Eleven near AIST and the FamilyMart on campus are both fairly small.
@@ -90,17 +102,29 @@ A ramen restaurant.
 
 **Payment:** Pay at the vending machine with cash or electronic money (IC card, PayPay, etc.) and hand over the token to receive your food.
 
-![Miso no Jyo Tsukuba entrance](assets/food/Ramen4.jpg){ loading=lazy }
-<small>*Miso no Jyo Tsukuba*</small>
+<div class="img-grid" markdown>
 
-![Miso no Jyo Tsukuba meal](assets/food/Ramen2.jpg){ loading=lazy }
-<small>*Food at Miso no Jyo Tsukuba*</small>
+<figure markdown>
+![Miso no Jyo Tsukuba entrance](assets/food/ramen-entrance.jpg){ loading=lazy }
+<figcaption>Miso no Jyo Tsukuba</figcaption>
+</figure>
 
-![Miso no Jyo Tsukuba Vending machine](assets/food/RamenSpot.jpg){ loading=lazy }
-<small>*Vending machine at Miso no Jyo Tsukuba*</small>
+<figure markdown>
+![Miso no Jyo Tsukuba meal](assets/food/ramen-meal.jpg){ loading=lazy }
+<figcaption>Food at Miso no Jyo Tsukuba</figcaption>
+</figure>
 
-![Miso no Jyo Tsukuba Ambience](assets/food/Ramen3.jpg){ loading=lazy }
-<small>*Ambinece at Miso no Jyo Tsukuba*</small>
+<figure markdown>
+![Miso no Jyo Tsukuba vending machine](assets/food/ramen-vending-machine.jpg){ loading=lazy }
+<figcaption>Vending machine at Miso no Jyo Tsukuba</figcaption>
+</figure>
+
+<figure markdown>
+![Miso no Jyo Tsukuba ambience](assets/food/ramen-ambience.jpg){ loading=lazy }
+<figcaption>Ambience at Miso no Jyo Tsukuba</figcaption>
+</figure>
+
+</div>
 
 !!! tip "Vending machine tickets are common"
     Most ramen restaurants in Japan use this same vending machine ticket system, so it's worth getting comfortable with it early.
@@ -114,14 +138,24 @@ A Western restaurant. I had omelet rice, and beyond the food, the interior desig
 
 Ordering is simple: just point to what you want on the menu card and it'll be served.
 
-![Maru entrance](assets/food/Maru1.jpg){ loading=lazy }
-<small>*Maru*</small>
+<div class="img-grid" markdown>
 
-![Maru meal](assets/food/Maru3.jpg){ loading=lazy }
-<small>*Food at Maru*</small>
+<figure markdown>
+![Maru entrance](assets/food/maru-entrance.jpg){ loading=lazy }
+<figcaption>Maru</figcaption>
+</figure>
 
-![Maru Ambience](assets/food/Maru2.jpg){ loading=lazy }
-<small>*Ambinece at Maru*</small>
+<figure markdown>
+![Maru meal](assets/food/maru-meal.jpg){ loading=lazy }
+<figcaption>Food at Maru</figcaption>
+</figure>
+
+<figure markdown>
+![Maru ambience](assets/food/maru-ambience.jpg){ loading=lazy }
+<figcaption>Ambience at Maru</figcaption>
+</figure>
+
+</div>
 
 !!! tip "Reading Japanese menus"
     Most menus and vending machine screens will be in Japanese. I'd recommend installing **Kuli Kuli**, which I found better suited to this than Google Translate.
@@ -130,8 +164,10 @@ Ordering is simple: just point to what you want on the menu card and it'll be se
 
 Quite far from AIST, so cycling makes the trip easier. You'll find this chain in almost every city in Japan, and the omelet rice here is a solid choice. The shop was fairly full when I visited, so I skipped taking photos. Another Western-Japanese option.
 
-![Denny's entrance](assets/food/Dennys.jpg){ loading=lazy }
-<small>*Denny's*</small>
+<figure class="img-figure" markdown>
+![Denny's entrance](assets/food/dennys.jpg){ loading=lazy }
+<figcaption>Denny's</figcaption>
+</figure>
 
 ### Coco's
 
@@ -139,8 +175,10 @@ The best spot if you're eating late. Most restaurants close by 9 PM, but Coco's 
 
 The beef curry rice is a dependable standard order. There's a kids' menu, an English menu, and a solid range of desserts too.
 
-![Coco entrance](assets/food/coco.jpg){ loading=lazy }
-<small>*Coco's*</small>
+<figure class="img-figure" markdown>
+![Coco's entrance](assets/food/coco.jpg){ loading=lazy }
+<figcaption>Coco's</figcaption>
+</figure>
 
 ### Sushi Dokoro Yagura Tsukuba Honten
 
@@ -148,16 +186,17 @@ An authentic sushi spot with an atmosphere that genuinely feels like something o
 
 ### McDonald's
 
-Went in for the standard burgers, at the outlet inside food court of Iias Tsukuba. There are several locations around, including one near Tsukuba Center. The menu is the usual global lineup, plus a few Japan-specific items like the teriyaki burger.
+Went in for the standard burgers, at the outlet inside the food court of Iias Tsukuba. There are several locations around, including one near Tsukuba Center. The menu is the usual global lineup, plus a few Japan-specific items like the teriyaki burger.
 
 The teriyaki burger is worth trying, but go for the double patty. The single patty wasn't very filling.
 
 ### MOS Burger
 
-A Japanese burger chain, as far as know. Found this one in the food court of the mall next to Tsukuba Center. I tried the teriyaki burger again here, and found it noticeably more filling and flavorful than the McDonald's version, for around ¥920.
+A Japanese burger chain, as far as I know. Found this one in the food court of the mall next to Tsukuba Center. I tried the teriyaki burger again here, and found it noticeably more filling and flavorful than the McDonald's version, for around ¥920.
 
 !!! tip "Returning trays"
-    When eating at food courts in Japan, you are expected to return your tray to the shop you've bought your food from. 
+    When eating at food courts in Japan, you're expected to return your tray to the shop you bought your food from.
+
 ---
 
 I also tried a fair amount of Japanese cuisine while visiting tourist spots. You'll find those write-ups in the [Explore section](explore.md), alongside the places I visited.

@@ -1,0 +1,53 @@
+/* Consistent image handling across the whole site */
+
+/* Every image gets rounded corners by default */
+.md-typeset img {
+  border-radius: 8px;
+}
+
+/* Single full-width figure with a proper caption */
+.img-figure {
+  margin: 1.2rem 0;
+}
+
+.img-figure img {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.img-figure figcaption {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.5rem;
+}
+
+/* Side-by-side image grid, 2+ images with equal height regardless of source size */
+.img-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.img-grid figure {
+  margin: 0;
+}
+
+.img-grid img {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.img-grid figcaption {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: 0.4rem;
+}
