@@ -27,13 +27,16 @@
 
 /* Side-by-side image grid, 2+ images with equal height regardless of source size */
 .img-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 1rem;
   margin: 1.2rem 0;
 }
 
 .img-grid figure {
+  flex: 1 1 400px;
+  max-width: 400px;
   margin: 0;
 }
 
