@@ -5,8 +5,7 @@ hide:
 
 # Living at Sakura-kan
 
-![Sakura-kan exterior view](assets/images/sakura-kan-exterior.jpg){ loading=lazy }
-<small>*Placeholder, Sakura-kan viewed from outside*</small>
+![Sakura-kan exterior view](assets\accommodation\Outer.png){ loading=lazy }
 
 
 
@@ -45,13 +44,13 @@ Regardless of room type, expect:
 <div class="grid" markdown>
 
 <div markdown>
-![Single room interior](assets/images/room-single.jpg){ loading=lazy }
-<small>*Placeholder, inside a single room*</small>
+![Single room interior](assets\accommodation\Room 1.jpg){ loading=lazy }
+<small>*A single room*</small>
 </div>
 
 <div markdown>
-![Working desk and telephone](assets/images/desk-phone.jpg){ loading=lazy }
-<small>*Placeholder, the desk and phone. External calls come with a charge.*</small>
+![Working desk and telephone](assets\accommodation\Landline.jpg){ loading=lazy }
+<small>*The desk and phone. External calls come with a charge.*</small>
 </div>
 
 </div>
@@ -59,13 +58,18 @@ Regardless of room type, expect:
 <div class="grid" markdown>
 
 <div markdown>
-![Room entrance and closet](assets/images/entrance-closet.jpg){ loading=lazy }
-<small>*Placeholder, just past the entrance: bathroom on one side, closet on the other. There's a clothesline inside the closet for air-drying, though Tsukuba's humidity can slow that down.*</small>
+![Room entrance and closet](assets\accommodation\Room 2.jpg){ loading=lazy }
+<small>*Just past the entrance: bathroom on one side, closet on the other. There's a clothesline inside the closet for air-drying.*</small>
 </div>
 
 <div markdown>
-![Bathroom](assets/images/bathroom.jpg){ loading=lazy }
-<small>*Placeholder, the private bathroom*</small>
+![Bathroom](assets\accommodation\Bathroom.jpg){ loading=lazy }
+<small>*The bathroom*</small>
+</div>
+
+<div markdown>
+![Balcony](assets\accommodation\Balcony.jpg){ loading=lazy }
+<small>*The balcony*</small>
 </div>
 
 </div>
@@ -116,13 +120,14 @@ There's a separate spot for washing and drying dishes and utensils after cooking
 <div class="grid" markdown>
 
 <div markdown>
-![Common kitchen area](assets/images/kitchen.jpg){ loading=lazy }
-<small>*Placeholder, shared kitchen space with microwave*</small>
+![Common kitchen area](assets\accommodation\Microwave Block B.jpg){ loading=lazy }
+<small>*Microwave in block B*</small>
 </div>
 
 <div markdown>
-![Dish washing and drying area](assets/images/dish-area.jpg){ loading=lazy }
-<small>*Placeholder, where dishes and cookware get washed and left to dry*</small>
+![Dish washing and drying area](assets\accommodation\Lounge.jpg){ loading=lazy }
+<small>*
+The other common microwave and washing area is in main Lobby in Block A.*</small>
 </div>
 
 </div>
@@ -139,14 +144,31 @@ Every block has washing machines and they can be used at free of cost. However, 
 | **B** | Washer and dryer kept as separate machines |
 | **C** | Washing units are available, though I haven't used them myself |
 
-![Laundry room](assets/images/laundry.jpg){ loading=lazy }
-<small>*Placeholder, free-to-use washers and dryers*</small>
+
+<div markdown>
+![Laundry room Block B](assets\accommodation\Block B Laundry.jpg){ loading=lazy }
+</div>
+<small>*
+Laundry room Block B*</small>
+
+<div markdown>
+![Laundry room Block A](assets\accommodation\Block A Laundry.jpg){ loading=lazy }
+</div>
+<small>*
+Laundry room Block A*</small>
+side bys isde images
 
 ---
 
 ## Bikes & Moving Around
 
 Free bicycle loans are one of the best perks here. They make commuting and exploring Tsukuba far easier.
+
+![](assets\accommodation\Bicycle.jpg){ loading=lazy }
+(this image has to be side by side, low res image)
+
+![](assets\accommodation\Iron.jpg){ loading=lazy }
+(this image has to be side by side, low res image)
 
 !!! tip "How borrowing works"
     Sign the logbook at reception to borrow a bike. The same rule applies to anything else you borrow, including umbrellas, irons, and LAN cables: you can only pick these up after making an entry in the respective logbook at the desk.
@@ -177,19 +199,6 @@ Free bicycle loans are one of the best perks here. They make commuting and explo
 
 </div>
 
-<div class="grid" markdown>
-
-<div markdown>
-![Lounge area](assets/images/lounge.jpg){ loading=lazy }
-<small>*Placeholder, shared lounge and TV*</small>
-</div>
-
-<div markdown>
-![Vending machines](assets/images/vending.jpg){ loading=lazy }
-<small>*Placeholder, vending machines for drinks and quick snacks*</small>
-</div>
-
-</div>
 
 ---
 
@@ -197,8 +206,6 @@ Free bicycle loans are one of the best perks here. They make commuting and explo
 
 Housekeeping comes through twice a week (for me, it was Mondays and Thursdays). They'll make up the bed with fresh linens, swap towels, and tidy the room.
 
-![Freshly made bed after cleaning service](assets/images/bed.jpg){ loading=lazy }
-<small>*Placeholder, room right after the cleaning visit*</small>
 
 ---
 
@@ -212,3 +219,18 @@ Housekeeping comes through twice a week (for me, it was Mondays and Thursdays). 
 ## Final Thoughts
 
 Sakura-kan works well for a short research stay. The rooms are private and clean, the shared amenities (kitchen, laundry, bikes) genuinely cut down on daily hassle, and the staff at the desk were kind and helpful. Two things worth planning around ahead of time: **WiFi is Block-A-only**, and **mobile signal indoors is weak**. Beyond that, it's a low-stress place to spend an internship.
+
+!!! note "Something peculiar"
+    In Japan, most applainces has a optional ground wire as most buildings are not wired for ground. Also, some extension cord has a inbuilt locking mechanism.  You'll have to insert the plug and twist to lock it. Before removing the plug, you'll have to twist it back.  
+
+<div markdown>
+![Optional ground](assets\accommodation\ground.jpg){ loading=lazy }
+</div>
+<small>*
+Optional ground pin*</small>
+
+<div markdown>
+![Extension cord with locking mechanism](assets\accommodation\Extension cord.jpg){ loading=lazy }
+</div>
+<small>*Extension cord with locking mechanism*</small>
+side bys isde images

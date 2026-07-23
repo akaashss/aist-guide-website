@@ -33,8 +33,8 @@ The bus drops you at **Tsukuba Center**, and from there you can grab a public bu
 </div>
 
 <div markdown>
-![Narita Airport bus counter placeholder](assets/images/narita-bus-counter.jpg){ loading=lazy }
-<small>*Placeholder — Narita limousine bus counter*</small>
+![Narita Airport limosine bus](assets/travel/airport.jpg){ loading=lazy }
+<small>* — Narita limousine bus counter*</small>
 </div>
 
 </div>
@@ -86,8 +86,8 @@ Tsukuba Center is the closest station to campus.
 === "Public bus"
     Catch it from **Namiki-2-chome** (near the Front gate) or **Namiki-Ohashi** (~1 km away from the South gate). Both stops are roughly the same distance from Sakura-kan.
 
-![Tsukuba Center placeholder](assets/images/tsukuba-center.jpg){ loading=lazy }
-<small>*Placeholder — Tsukuba Center station*</small>
+![Tsukuba Center ](assets/travel/center.jpg){ loading=lazy }
+<small>* Tsukuba Center station*</small>
 
 ---
 
@@ -97,21 +97,14 @@ Most food spots cluster around **Doho Park** (about a 10-minute walk from Sakura
 
 Tsukuba Center itself sits next to a large shopping complex, and there are a few shops selling **handmade crafts** tucked in around there, worth a look if you get the chance.
 
-<div class="grid" markdown>
 
-<div markdown>
 **Iias Tsukuba** is one of the biggest malls in the area, about **6 km**, roughly **30 minutes by bicycle** or **an hour by public transport**. **MEGA Don Quijote** is right next door for pretty much anything else you might need.
-</div>
-
-<div markdown>
-![Doho Park placeholder](assets/images/doho-park.jpg){ loading=lazy }
-<small>*Placeholder — Doho Park in the evening*</small>
-</div>
-
-</div>
 
 !!! tip "Personal favorite"
     Walk through **Doho Park in the evening**. It's quiet, well-lit, and one of the most pleasant spots to just sit and unwind after a long day in the lab.
+
+!!! note "Crossing the road"
+    Crossing the street in Japan is a bit different! At crossings with traffic lights, you simply press the button and wait for the green signal. But at crossings without lights, something interesting happens: drivers actually stop for pedestrians. Unlike in India, where you have to hunt for a gap in traffic to cross, Japanese drivers will actively pull over to let you pass safely.
 
 ---
 
@@ -123,10 +116,23 @@ Tokyo is about **60 km** from Tsukuba.
 
 **Coming back:** The least stressful option is the **highway bus** (run jointly by JR and Kanto Tetsudo) from the **JR Highway Bus Terminal at Tokyo Station**, headed toward "**Tsukuba Center**" or "**University of Tsukuba**." It takes about **70 minutes** and costs around **¥1,200** one-way. Get off at either **Namiki-2-chome** *(Third stop)* or **Namiki-Ohashi** *(Second stop)*.
 
+![Highway bus schedule ](assets/travel/JR schedule.jpg){ loading=lazy }
+<small>*Highway bus schedule board*</small>
+
+![Highway bus stop in Tokyo Staion](assets/travel/JR stop.jpg){ loading=lazy }
+<small>*Highway bus stop in Tokyo Staion*</small>
+
 !!! tip "Which stop to pick"
     I'd get off at **Namiki-Ohashi**, it puts you right by the 7-Eleven near the South gate, perfect for a quick snack after the ride back.
 
-![Highway bus schedule placeholder](assets/images/bus-schedule.jpg){ loading=lazy }
-<small>*Placeholder — highway bus schedule board*</small>
+!!! tip "Stop button"
+    A stop button is accessible from every seat. If you wish to get off at the next stop, you must notify the driver by pressing it. If another passenger has already pressed the button, you do not need to press it again. Otherwise, the bus will not stop.
 
+![Stop button in buses.](assets/travel/bus stop.jpg){ loading=lazy }
+<small>*Stop button in buses.*</small>
+
+
+
+!!! note "Amenities in Highway Bus"
+    Almost all highway bus and limousine provides free WiFi and has onboard toilets. Also, these buses are equipped with either a power socket or a USB-A port. 
 ---

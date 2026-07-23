@@ -64,7 +64,6 @@ nav:
   - Food: food.md
   - Shopping: shopping.md
   - Explore: explore.md
-  - Living in Japan: tips.md
 
 markdown_extensions:
   - attr_list
