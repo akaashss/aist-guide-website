@@ -1,0 +1,84 @@
+{% extends "main.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <style>
+    /* Scoped to this template only, never affects other pages.
+       Not fully transparent, a dark tint + blur, so the title row
+       stays legible even before the hero image fully lines up. */
+    .md-header {
+      background-color: rgba(0, 0, 0, 0.35);
+      box-shadow: none;
+      transition: background-color 0.25s, box-shadow 0.25s;
+    }
+
+    .md-header--shadow {
+      background-color: var(--md-default-bg-color);
+      box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.1), 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
+    }
+
+    .md-tabs {
+      background-color: rgba(0, 0, 0, 0.25);
+    }
+
+    .tx-hero {
+      position: relative;
+      left: 50%;
+      right: 50%;
+      width: 100vw;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      margin-top: -4.8rem;
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-start;
+      min-height: 100vh;
+      padding: 3rem;
+      box-sizing: border-box;
+      color: #fff;
+      background: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.65)),
+        url("assets/home/hero.jpg") no-repeat center / cover;
+    }
+
+    .tx-hero__content {
+      max-width: 32rem;
+      text-align: left;
+      padding-bottom: 2rem;
+    }
+
+    .tx-hero__content h1 {
+      margin-bottom: 0.6rem;
+      color: #fff;
+      font-weight: 700;
+      font-size: 2.4rem;
+    }
+
+    .tx-hero__content p {
+      margin-bottom: 1.4rem;
+      font-size: 1.1rem;
+      opacity: 0.9;
+    }
+  </style>
+{% endblock %}
+
+{% block tabs %}
+  {{ super() }}
+
+  <section class="tx-hero">
+    <div class="tx-hero__content md-typeset">
+      <h1>AIST Internship Guide</h1>
+      <p>
+        A practical guide based on my two-month internship at AIST Tsukuba,
+        Japan, covering everyday life, research, travel, and experiences to
+        help future interns prepare for their stay.
+      </p>
+      <a href="{{ 'travel/' | url }}" class="md-button md-button--primary">
+        Start exploring
+      </a>
+    </div>
+  </section>
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
+{% endblock %}

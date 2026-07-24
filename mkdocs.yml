@@ -79,3 +79,5 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+plugins: []
